@@ -2,3 +2,6 @@
 .ipynb_checkpoints
 nb/.virtual_documents
 nb/.ipynb_checkpoints
+
+db/*.db
+data/*.csv
