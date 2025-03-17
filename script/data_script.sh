@@ -25,14 +25,14 @@ unzip_files() {
 	echo "EXTRAINDO arquivos .csv em /data"
 	cat comp/csvs_* > comp/csvs.zip
 	unzip comp/csvs.zip
-	#rm -rf comp
+	rm -rf comp/csvs.zip
 	echo "Extração finalizada."
 	
 	cd ../db
 	echo "EXTRAINDO database em /db"
 	cat comp/db_* > comp/db.zip
 	unzip comp/db.zip
-	#rm -rf comp
+	rm -rf comp/db.zip
 	echo "Extração finalizada."	
 	
 }
