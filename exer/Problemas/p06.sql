@@ -1,0 +1,1 @@
+-- Refaça o exemplo 05 mas com inclusão de resolução por nível e indicador de conclusão

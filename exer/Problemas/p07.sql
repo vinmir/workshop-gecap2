@@ -1,0 +1,1 @@
+-- Refaça o exemplo 05 envolvendo o resultado final numa CTE de modo a facilitar rastreabilidade e inclusão de filtros.

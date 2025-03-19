@@ -1,0 +1,1 @@
+-- Fica como exercício verdadeiro ao leitor.

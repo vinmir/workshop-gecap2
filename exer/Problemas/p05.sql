@@ -1,0 +1,1 @@
+-- Refaça o exemplo 04 mas com referência ao ts_criacao de cada sessão (ao invés de ts_evento)

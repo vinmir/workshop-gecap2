@@ -1,0 +1,2 @@
+-- Modifique sua solução para o problema p07 de modo a detectar possíveis crises na semana dos dias 03-09/março.
+-- Quais os horários de início e fim de crise? Quais componentes foram afetados?
